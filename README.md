@@ -2,11 +2,11 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing UPI transaction data to identify fraud patterns, transaction behavior, and potential risk indicators.
+This project focuses on analyzing UPI transaction data to identify fraud patterns, transactions behavior, and potential risk indicators.
 
 The project uses **Python, Pandas, and PostgreSQL** to perform data cleaning, exploratory data analysis, database management, and SQL-based fraud analysis.
 
-The analysis covers **20,000 UPI transactions** and identifies key transaction, user, and behavioral characteristics associated with higher observed fraud rates.
+The analysis covers **20,000 UPI transactions** and identifies key transactions, users, and behavioral characteristics associated with higher observed fraud rates.
 
 ---
 
