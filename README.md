@@ -20,7 +20,7 @@ The analysis covers **20,000 UPI transactions** and identifies key transactions,
 - Jupyter Notebook
 - Matplotlib
 - Seaborn
-- Git & GitHub
+- Git and GitHub
 
 ---
 
@@ -33,7 +33,7 @@ The project contains four main datasets:
 - `merchants.csv`
 - `fraud_labels.csv`
 
-A `data_dictionary.csv` is also included to describe the dataset columns and their meanings.
+A `data_dictionary.csv` file is also included to describe the dataset columns and their meanings.
 
 ---
 
